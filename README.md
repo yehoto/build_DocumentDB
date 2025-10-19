@@ -1,2 +1,2 @@
 ### how to run
-source build_documentdb.sh
+source build_documentdb_with_sanitizers.sh
